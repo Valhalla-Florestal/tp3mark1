@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1574813351 source:c:\users\william\documents\aeds\tp3mark1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tPalavra.h"
+
+1574813306 c:\users\william\documents\aeds\tp3mark1\tpalavra.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1574813325 source:c:\users\william\documents\aeds\tp3mark1\tpalavra.c
+	"tPalavra.h"
+
